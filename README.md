@@ -8,10 +8,9 @@ A ideia é que vocẽs criem um "CRUD" de dados.
 
 **Criar uma aplicação (REST) que consiga listar, inserir, atualizar e excluir filmes.**
 
-Vocês poderam utilizar qualquer linguagem de desenvolvimento.
+Vamos utilizar o Java.
 
 Não há necessidade de disponibilizar um front-end. Se concentrem na lógica de programação (API).
-
 
 Neste repositório tem um arquivo chamado movies.json para auxíliar vocês.
 
@@ -30,3 +29,6 @@ Neste repositório tem um arquivo chamado movies.json para auxíliar vocês.
 
 E-mail: rogerio.silva@tksolution.com
 LinkedIn: https://www.linkedin.com/in/rog%C3%A9rio-l%C3%BAcio-da-silva-b1b42ab2/
+
+
+Data de entrega: Até domingo (18/07) 23:59
