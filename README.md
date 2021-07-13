@@ -4,12 +4,11 @@ Generation Test
 
 Sejam bem-vindos a próxima etapa galera.
 
-A ideia é que vocẽs executem um teste voltado a um "CRUD" de dados.
+A ideia é que vocẽs criem um "CRUD" de dados.
 
+**Criar uma aplicação (REST) que consiga listar, inserir, atualizar e excluir filmes.**
 
-Criar uma aplicação (REST) que consiga listar, inserir, atualizar e excluir filmes.
-
-Vocês poderam utilizar qualquer linguágem de desenvolvimento.
+Vocês poderam utilizar qualquer linguagem de desenvolvimento.
 
 Não há necessidade de disponibilizar um front-end. Se concentrem na lógica de programação (API).
 
