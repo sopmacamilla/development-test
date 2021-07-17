@@ -10,7 +10,7 @@ import javax.validation.constraints.NotNull;
 @Entity
 @Table(name = "movies")
 public class Movies {
-	
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long movieId;
@@ -19,7 +19,7 @@ public class Movies {
 	private String title;
 	
 	@NotNull
-	private long genres;
+	private String genres;
 
 	public long getMovieId() {
 		return movieId;
@@ -37,11 +37,11 @@ public class Movies {
 		this.title = title;
 	}
 
-	public long getGenres() {
+	public String getGenres() {
 		return genres;
 	}
 
-	public void setGenres(long genres) {
+	public void setGenres(String genres) {
 		this.genres = genres;
 	}
 	
