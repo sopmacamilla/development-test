@@ -8,4 +8,4 @@
 </p>
 
 <h2 id="Executar">▶️ E como executa?</h2>
-<p>Você pode ler a documentação e testar a api acessando o swagger clicando em <a href="http://localhost:8080/swagger-ui.html#/"></a>
+<p>Você pode ler a documentação e testar a api acessando o swagger clicando em http://localhost:8080/swagger-ui.html#/
