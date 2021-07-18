@@ -1,6 +1,10 @@
 
 <h1 align="center">Movie API REST</h1>
 <p align="center">Concluído ✅</p>
+<p align="center">
+ <a href="#Sobre">Sobre</a> •
+ <a href="#Executar">Como executar</a>
+</p>
 
 <h2 id="Sobre">👀 Mas... o que é?</h2>
 <p>É uma aplicação a qual é possível:</p>
