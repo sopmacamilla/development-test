@@ -15,4 +15,4 @@
 -  ❌ Excluir filmes por id
 
 <h2 id="Executar">▶️ E como executa?</h2>
-<p>Você pode ler a documentação e testar a API acessando o Heroku, onde foi feito o deploy, clicando <a href="https://movies-api-tk.herokuapp.com/swagger-ui.html/">aqui!</a></p>
+<p>Você pode ler a documentação e testar a API acessando o Heroku, onde foi feito o deploy, clicando <a href="https://movies-api-tk.herokuapp.com/swagger-ui.html">aqui!</a></p>
