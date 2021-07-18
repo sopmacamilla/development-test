@@ -28,12 +28,10 @@
 <h4>POST | Inserir um filme</h4>
 <p>1. Clique em POST /movies</p>
 <p>2. Em 'Value' insira o filme que deseja inserir, como exemplo:</p>
-```
 {
   "genres": "string",
   "title": "string"
 }
-``` 
 <p>3. Em 'Response Body' todos os filmes listados serão exibidos</p>
 <img src="https://media.giphy.com/media/faNfTWVWGUb8IOc2oZ/giphy.gif" alt="Página inicial">
 <hr>
