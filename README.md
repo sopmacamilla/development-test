@@ -20,22 +20,28 @@
 
 <h4>GET | Listar todos os filmes</h4>
 <img src="https://media.giphy.com/media/xK8DXNHuqXdk8M6yHq/giphy.gif" alt="Página inicial">
+<hr>
 
 <h4>POST | Inserir um filme</h4>
 <img src="" alt="Página inicial">
+<hr>
 
 <h4>PUT | Alterar um filme</h4>
 <img src="" alt="Página inicial">
+<hr>
 
 <h4>GET | Listar filmes por gênero</h4>
 <img src="" alt="Página inicial">
+<hr>
 
 <h4>GET | Listar filmes por título</h4>
 <img src="" alt="Página inicial">
+<hr>
 
 <h4>DELETE | Excluir um filme</h4>
 <img src="" alt="Delete">
+<hr>
 
 <h4>GET | Lista um único filme</h4>
 <img src="" alt="Página inicial">
-
+<hr>
