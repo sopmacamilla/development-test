@@ -4,7 +4,6 @@
 
 <h2 id="Sobre">👀 Mas... o que é?</h2>
 <p>É uma aplicação a qual é possível:</p>
-.
 
 - 🗒️ Listar - todos os filmes, por id, por títutlo ou por gênero
 - ⌨️ Inserir filmes 
