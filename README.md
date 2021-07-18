@@ -18,7 +18,7 @@
 <p>Você pode ler a documentação e testar a API acessando o Heroku, onde foi feito o deploy, clicando <a href="https://movies-api-tk.herokuapp.com/swagger-ui.html">aqui!</a></p>
 
 <p>GET - Listar todos os filmes</p>
-<img src="https://media.giphy.com/media/xK8DXNHuqXdk8M6yHq/giphy.gif" alt="Página inicial" width="120px;" height="100px;">
+<img src="https://media.giphy.com/media/xK8DXNHuqXdk8M6yHq/giphy.gif" alt="Página inicial" width="1200px;" height="1000px;">
 
 <p>POST - Inserir um filme</p>
 <img src="" alt="Página inicial">
