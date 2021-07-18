@@ -19,9 +19,9 @@
 <hr>
 
 <h4>GET | Listar todos os filmes</h4>
-<p>1. Clique em GET /movies
-2. Clique no botão 'Try it out!'
-3. Em 'Response Body' todos os filmes listados serão exibidos</p>
+<p>1. Clique em GET /movies</p>
+<p>2. Clique no botão 'Try it out!'</p>
+<p>3. Em 'Response Body' todos os filmes listados serão exibidos</p>
 <img src="https://media.giphy.com/media/xK8DXNHuqXdk8M6yHq/giphy.gif" alt="Página inicial">
 <hr>
 
@@ -38,7 +38,7 @@
 <hr>
 
 <h4>GET | Listar filmes por título</h4>
-<img src="" alt="Página inicial">
+<img src="https://media.giphy.com/media/efniBdvIOw9STQWT4h/giphy.gif" alt="Página inicial">
 <hr>
 
 <h4>DELETE | Excluir um filme</h4>
