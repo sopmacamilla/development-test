@@ -7,5 +7,5 @@
   É uma aplicação a qual é possível listar, inserir, atualizar e excluir filmes.
 </p>
 
-<h2 id="Executar">▶️ Para executar:</h2>
-<p>Você pode ler a documentação e testar a api acessando o swagger clicando em <a href=""></a>
+<h2 id="Executar">▶️ E como executa?</h2>
+<p>Você pode ler a documentação e testar a api acessando o swagger clicando em <a href="http://localhost:8080/swagger-ui.html#/"></a>
