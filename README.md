@@ -23,7 +23,7 @@
 <hr>
 
 <h4>POST | Inserir um filme</h4>
-<img src="" alt="Página inicial">
+<img src="https://media.giphy.com/media/faNfTWVWGUb8IOc2oZ/giphy.gif" alt="Página inicial">
 <hr>
 
 <h4>PUT | Alterar um filme</h4>
@@ -44,4 +44,4 @@
 
 <h4>GET | Lista um único filme</h4>
 <img src="" alt="Página inicial">
-<hr>
+
