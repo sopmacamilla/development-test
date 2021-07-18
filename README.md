@@ -33,7 +33,7 @@
 <img src="" alt="Página inicial">
 
 <p>DELETE - Excluir um filme</p>
-<img src="" alt="Página inicial">
+<img src="https://imgur.com/a/VtVqfL1" alt="Delete">
 
 <p>GET - Lista um único filme</p>
 <img src="" alt="Página inicial">
