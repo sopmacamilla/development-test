@@ -26,6 +26,15 @@
 <hr>
 
 <h4>POST | Inserir um filme</h4>
+<p>1. Clique em POST /movies</p>
+<p>2. Em 'Value' insira o filme que deseja inserir, como exemplo:</p>
+```
+{
+  "genres": "string",
+  "title": "string"
+}
+``` 
+<p>3. Em 'Response Body' todos os filmes listados serão exibidos</p>
 <img src="https://media.giphy.com/media/faNfTWVWGUb8IOc2oZ/giphy.gif" alt="Página inicial">
 <hr>
 
@@ -42,7 +51,7 @@
 <hr>
 
 <h4>DELETE | Excluir um filme</h4>
-<img src="" alt="Delete">
+<img src="https://media.giphy.com/media/u8vLqnDAr5cXU9dDS7/giphy.gif" alt="Delete">
 <hr>
 
 <h4>GET | Lista um único filme</h4>
