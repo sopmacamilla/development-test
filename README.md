@@ -16,25 +16,26 @@
 
 <h2 id="Executar">▶️ E como executa?</h2>
 <p>Você pode ler a documentação e testar a API acessando o Heroku, onde foi feito o deploy, clicando <a href="https://movies-api-tk.herokuapp.com/swagger-ui.html">aqui!</a></p>
+<hr>
 
 <h4>GET | Listar todos os filmes</h4>
 <img src="https://media.giphy.com/media/xK8DXNHuqXdk8M6yHq/giphy.gif" alt="Página inicial">
 
-<p>POST - Inserir um filme</p>
+<h4>POST | Inserir um filme</h4>
 <img src="" alt="Página inicial">
 
-<p>PUT - Alterar um filme</p>
+<h4>PUT | Alterar um filme</h4>
 <img src="" alt="Página inicial">
 
-<p>GET - Listar filmes por gênero</p>
+<h4>GET | Listar filmes por gênero</h4>
 <img src="" alt="Página inicial">
 
-<p>GET - Listar filmes por título</p>
+<h4>GET | Listar filmes por título</h4>
 <img src="" alt="Página inicial">
 
-<p>DELETE - Excluir um filme</p>
+<h4>DELETE | Excluir um filme</h4>
 <img src="" alt="Delete">
 
-<p>GET - Lista um único filme</p>
+<h4>GET | Lista um único filme</h4>
 <img src="" alt="Página inicial">
 
