@@ -3,13 +3,14 @@
 <p align="center">Concluído ✅</p>
 <p align="center">
  <a href="#Sobre">Sobre</a> •
- <a href="#Executar">Como executar</a>
+ <a href="#Executar">Como executar</a> •
+ <a href="#Contato">Contato</a>
 </p>
 
 <h2 id="Sobre">👀 Mas... o que é?</h2>
 <p>É uma aplicação a qual é possível:</p>
 
-- 🗒️ Listar - todos os filmes, por id, por títutlo ou por gênero
+- 🗒️ Listar - todos os filmes, por id, por título ou por gênero
 - ⌨️ Inserir filmes 
 - 🔄 Atualizar filmes
 -  ❌ Excluir filmes por id
@@ -89,3 +90,5 @@
 <p>4. Em 'Response Body' serão exibidos os dados do filme consultado</p>
 <img src="https://media.giphy.com/media/ftqrCSpvPJfICJOaxj/giphy.gif" alt="Get Filme">
 
+<h2 id="Contato">☝️ Algum feedback ou dúvida?</h2>
+<p>Pode me enviar um e-mail - camillaoui@gmail.com 😉</p>
