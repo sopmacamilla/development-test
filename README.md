@@ -44,11 +44,15 @@
 <h4>PUT | Altera um filme</h4>
 <p>1. Clique em PUT /movies</p>
 <p>2. Em 'Value' informe o id do filme a qual você quer alterar os dados, seguindo o exemplo abaixo:</p>
+
+```
 {
     "movieId": 3,
 	"title": "Money Train (1995)",
 	"genres": "Action|Comedy|Crime|Drama|Thriller"
 }
+```
+
 <p>3. Clique no botão 'Try it out!'</p>
 <p>4. Em 'Response Body' serão exibidos os dados alterados do filme</p>
 <img src="https://media.giphy.com/media/Nk5KSDwDQVxXjaaEGx/giphy.gif" alt="Put">
