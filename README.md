@@ -33,7 +33,7 @@
 ```
 {
     "title": "Casino (1995)",
-	"genres": "Crime|Drama"
+    "genres": "Crime|Drama"
 }
 ```
 
@@ -49,8 +49,8 @@
 ```
 {
     "movieId": 3,
-	"title": "Money Train (1995)",
-	"genres": "Action|Comedy|Crime|Drama|Thriller"
+    "title": "Money Train (1995)",
+    "genres": "Action|Comedy|Crime|Drama|Thriller"
 }
 ```
 
@@ -91,4 +91,4 @@
 <img src="https://media.giphy.com/media/ftqrCSpvPJfICJOaxj/giphy.gif" alt="Get Filme">
 
 <h2 id="Contato">☝️ Algum feedback ou dúvida?</h2>
-<p>Pode me enviar um e-mail - camillaoui@gmail.com 😉</p>
+<p>Pode me enviar um e-mail: camillaoui@gmail.com 😉</p>
